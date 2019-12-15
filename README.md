@@ -1,4 +1,4 @@
-# 3Callibals3Missionaries
+# 3Callibals3Missionaries(game)
 
 Rules:
 1) Only 2 people at a time on a boat.
